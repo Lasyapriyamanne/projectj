@@ -1,3 +1,3 @@
 # This program prints Hello, world!
 
-print('Hello, balayaaaa%%%%%%%%%aaaaaaa')
+print('Hello, balayaaaa^^^^^^aaaaaa')
